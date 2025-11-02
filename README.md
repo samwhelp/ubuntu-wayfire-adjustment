@@ -24,6 +24,7 @@
 | Script |
 | ------ |
 | [Wayfire Config](https://github.com/samwhelp/ubuntu-wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
+| [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
